@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .nav-pictograms{display:block;width:100%;max-width:350px;height:auto;margin:40px 0 30px}
+
+.nav-entry{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);box-shadow:0 8px 24px rgba(191,224,20,.24)}.nav-entry:hover{background:#c6ee00;transform:translateY(-1px)}
